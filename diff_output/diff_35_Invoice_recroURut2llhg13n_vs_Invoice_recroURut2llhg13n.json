@@ -1,0 +1,14 @@
+{
+  "values_changed": {
+    "root['business_name']": {
+      "new_value": "REWE Matthias H\u00e4rschel oHG",
+      "old_value": "REWE Matthias H\u00e4rzschel oHG"
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][1]": {
+      "name": "PFAND",
+      "price": 0.15
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "iterable_item_added": {
+    "root['items'][0]": {
+      "name": "Piz. Calzon. Klein",
+      "price": 11.0
+    },
+    "root['items'][1]": {
+      "name": "Piz. Salami-Mittel",
+      "price": 6.0
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][0]": {
+      "name": "Piz.Calzon.Klein",
+      "price": 11.0
+    },
+    "root['items'][1]": {
+      "name": "Piz.Salami-Mittel",
+      "price": 6.0
+    }
+  }
+}

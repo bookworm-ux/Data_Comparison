@@ -1,0 +1,40 @@
+{
+  "values_changed": {
+    "root['total_net']": {
+      "new_value": 20.25,
+      "old_value": 22.49
+    },
+    "root['business_name']": {
+      "new_value": "HIT Frische GmbH & Co. KG",
+      "old_value": "F-HIT Frische GmbH & Co. KG"
+    },
+    "root['items'][2]['name']": {
+      "new_value": "Champig. Crem",
+      "old_value": "Champig. Cr\u00e8me"
+    },
+    "root['items'][8]['name']": {
+      "new_value": "Gehacktes R/S",
+      "old_value": "Pfand/Leergut"
+    },
+    "root['items'][8]['price']": {
+      "new_value": 2.81,
+      "old_value": 0.25
+    },
+    "root['items'][4]['name']": {
+      "new_value": "GLB Schinken-Pfeffer",
+      "old_value": "GLB Schinken-Scheibe"
+    },
+    "root['items'][5]['name']": {
+      "new_value": "Milr.Reibek.Auril",
+      "old_value": "Milr.Reibek. A.I."
+    },
+    "root['items'][6]['name']": {
+      "new_value": "Weih. Sahne z. K",
+      "old_value": "Weih. Sahne Z. K."
+    },
+    "root['items'][7]['name']": {
+      "new_value": "R.to go Granatap",
+      "old_value": "R.to go Granatapfel"
+    }
+  }
+}

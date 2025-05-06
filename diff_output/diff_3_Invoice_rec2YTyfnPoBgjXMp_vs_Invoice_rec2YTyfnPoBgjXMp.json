@@ -1,0 +1,28 @@
+{
+  "values_changed": {
+    "root['total_net']": {
+      "new_value": 150.61,
+      "old_value": 0.0
+    }
+  },
+  "iterable_item_added": {
+    "root['items'][0]": {
+      "name": "Best Price including Breakfast",
+      "price": 162.85
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][0]": {
+      "name": "Breakfast",
+      "price": 16.9
+    },
+    "root['items'][1]": {
+      "name": "Lodging",
+      "price": 139.0
+    },
+    "root['items'][2]": {
+      "name": "City Tax",
+      "price": 6.95
+    }
+  }
+}

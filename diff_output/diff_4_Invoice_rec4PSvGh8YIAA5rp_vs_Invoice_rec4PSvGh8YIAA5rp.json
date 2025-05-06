@@ -1,0 +1,8 @@
+{
+  "values_changed": {
+    "root['business_name']": {
+      "new_value": "star-Tankstelle",
+      "old_value": "star- Tankstelle"
+    }
+  }
+}

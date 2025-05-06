@@ -1,0 +1,16 @@
+{
+  "values_changed": {
+    "root['total_net']": {
+      "new_value": 4.3,
+      "old_value": 4.6
+    },
+    "root['business_name']": {
+      "new_value": "dm-drogerie markt",
+      "old_value": "dm-drogerei markt"
+    },
+    "root['items'][1]['name']": {
+      "new_value": "Bad Heilbr. Mate Pur Tee",
+      "old_value": "Bad Heilbr. Mate Pur Tee 27g"
+    }
+  }
+}

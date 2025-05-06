@@ -1,0 +1,16 @@
+{
+  "values_changed": {
+    "root['total_net']": {
+      "new_value": 13.01,
+      "old_value": 12.99
+    },
+    "root['business_name']": {
+      "new_value": "BURGER KING\u00ae",
+      "old_value": "BURGER KING"
+    },
+    "root['items'][0]['name']": {
+      "new_value": "Chili Cheese Nuggets 6 Stk.",
+      "old_value": "Chili Cheese Nuggets 6 Stk"
+    }
+  }
+}

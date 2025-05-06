@@ -1,0 +1,12 @@
+{
+  "values_changed": {
+    "root['business_name']": {
+      "new_value": "SATURN ELECTRO",
+      "old_value": "SATURN-ELEKTRO HANDELS GMBH"
+    },
+    "root['items'][0]['name']": {
+      "new_value": "HAMA SMARTES HEIZK\u00d6RPERTHE",
+      "old_value": "SHS562 HEIZK\u00d6RPERTHERMOSTAT"
+    }
+  }
+}

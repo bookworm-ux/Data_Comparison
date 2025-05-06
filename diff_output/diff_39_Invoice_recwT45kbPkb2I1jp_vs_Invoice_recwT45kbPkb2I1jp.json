@@ -1,0 +1,32 @@
+{
+  "values_changed": {
+    "root['business_name']": {
+      "new_value": "SSP Deutschland, The Squire 24, 60549 Frankfurt am Main DTE",
+      "old_value": "Burger King"
+    }
+  },
+  "iterable_item_added": {
+    "root['items'][0]": {
+      "name": "BK Men\u00fc Whopper",
+      "price": 11.39
+    },
+    "root['items'][1]": {
+      "name": "BK Extra Cheese gr.",
+      "price": 1.25
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][0]": {
+      "name": "BK Menu Whopper",
+      "price": 11.39
+    },
+    "root['items'][1]": {
+      "name": "BK Extra Cheese",
+      "price": 1.25
+    },
+    "root['items'][2]": {
+      "name": "BK Country Potatoes",
+      "price": 0.0
+    }
+  }
+}

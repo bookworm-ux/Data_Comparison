@@ -1,0 +1,16 @@
+{
+  "values_changed": {
+    "root['business_name']": {
+      "new_value": "Cyberport Store Leipzig",
+      "old_value": "cyberport"
+    },
+    "root['items'][0]['name']": {
+      "new_value": "Samsung EP-TA5150 EP-TA5150XBEGEU",
+      "old_value": "Samsung EP-T4510 EP-T4510XBEGEU"
+    },
+    "root['items'][1]['name']": {
+      "new_value": "Samsung EP-TA5150 EP-TA5150XBEGEU",
+      "old_value": "Samsung EP-T4510 EP-T4510XBEGEU"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "values_changed": {
+    "root['business_name']": {
+      "new_value": "MEDIA MARKT",
+      "old_value": "Media Markt"
+    },
+    "root['items'][0]['name']": {
+      "new_value": "EPSON PERFECTION V 39 II 304 SCANNER",
+      "old_value": "BISON PERFECTION V 39 II 304 SCANNER"
+    }
+  }
+}

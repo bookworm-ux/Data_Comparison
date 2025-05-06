@@ -1,0 +1,16 @@
+{
+  "type_changes": {
+    "root['total_net']": {
+      "old_type": "<class 'NoneType'>",
+      "new_type": "<class 'float'>",
+      "old_value": null,
+      "new_value": 13.28
+    }
+  },
+  "values_changed": {
+    "root['items'][0]['name']": {
+      "new_value": "King's Emo D M",
+      "old_value": "King D."
+    }
+  }
+}

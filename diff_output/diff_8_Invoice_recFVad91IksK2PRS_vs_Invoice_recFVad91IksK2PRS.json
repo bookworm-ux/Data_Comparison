@@ -1,0 +1,92 @@
+{
+  "values_changed": {
+    "root['total_net']": {
+      "new_value": 135.55,
+      "old_value": 135.5
+    }
+  },
+  "iterable_item_added": {
+    "root['items'][0]": {
+      "name": "341 PILS 0,5",
+      "price": 20.0
+    },
+    "root['items'][1]": {
+      "name": "345 HEFE DUNKEL 0,5",
+      "price": 14.7
+    },
+    "root['items'][2]": {
+      "name": "340 PILS 0,3",
+      "price": 3.8
+    },
+    "root['items'][3]": {
+      "name": "312 APFELSCHORLE 0,3",
+      "price": 12.6
+    },
+    "root['items'][4]": {
+      "name": "1 GIOUwARLAKIA",
+      "price": 13.6
+    },
+    "root['items'][5]": {
+      "name": "10 TIROPITA",
+      "price": 17.8
+    },
+    "root['items'][6]": {
+      "name": "103 KALAMARIA",
+      "price": 19.5
+    },
+    "root['items'][7]": {
+      "name": "141 GYROS \u00dcBERBACKEN",
+      "price": 21.5
+    },
+    "root['items'][8]": {
+      "name": "144 BIFTEKI",
+      "price": 18.9
+    },
+    "root['items'][9]": {
+      "name": "174 AKROPOLIS-TELLE",
+      "price": 18.9
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][0]": {
+      "name": "PILS 0,5",
+      "price": 5.0
+    },
+    "root['items'][1]": {
+      "name": "HEFE DUNKEL 0,5",
+      "price": 4.9
+    },
+    "root['items'][2]": {
+      "name": "PILS 0,3",
+      "price": 3.8
+    },
+    "root['items'][3]": {
+      "name": "APFELSchorle 0,3",
+      "price": 4.2
+    },
+    "root['items'][4]": {
+      "name": "GIOUWARLAKIA",
+      "price": 6.8
+    },
+    "root['items'][5]": {
+      "name": "TIROPITA",
+      "price": 8.9
+    },
+    "root['items'][6]": {
+      "name": "KALAMARIA",
+      "price": 19.5
+    },
+    "root['items'][7]": {
+      "name": "GYROS \u00dcBERBACKEN",
+      "price": 21.5
+    },
+    "root['items'][8]": {
+      "name": "BIFTEKI",
+      "price": 18.9
+    },
+    "root['items'][9]": {
+      "name": "AKROPOLIS-TELLE",
+      "price": 18.9
+    }
+  }
+}

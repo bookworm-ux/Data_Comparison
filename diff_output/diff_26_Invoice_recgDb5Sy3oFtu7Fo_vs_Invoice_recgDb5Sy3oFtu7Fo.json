@@ -1,0 +1,12 @@
+{
+  "values_changed": {
+    "root['total_net']": {
+      "new_value": 6.17,
+      "old_value": 6.0
+    },
+    "root['business_name']": {
+      "new_value": "dm-drogerie markt Grimmaische Stra\u00dfe 14, 04109 Leipzig, Deutschland",
+      "old_value": "dm-drogerie markt"
+    }
+  }
+}

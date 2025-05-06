@@ -1,0 +1,22 @@
+{
+  "values_changed": {
+    "root['total_net']": {
+      "new_value": 189.67,
+      "old_value": 206.36
+    }
+  },
+  "iterable_item_added": {
+    "root['items'][0]": {
+      "name": "Fr\u00fchst\u00fcck Speisen",
+      "price": 5.07
+    },
+    "root['items'][2]": {
+      "name": "\u00dcbernachtungsteuer/Kurbeitrag",
+      "price": 4.0
+    },
+    "root['items'][3]": {
+      "name": "Umsatzsteuer 7%",
+      "price": 0.28
+    }
+  }
+}

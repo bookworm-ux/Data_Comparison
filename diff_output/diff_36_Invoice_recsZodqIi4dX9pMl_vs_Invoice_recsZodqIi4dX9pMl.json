@@ -1,0 +1,16 @@
+{
+  "values_changed": {
+    "root['total_net']": {
+      "new_value": 60.48,
+      "old_value": 60.43
+    },
+    "root['business_name']": {
+      "new_value": "SATURN ELECTRO, Willy-Brandt-Platz 5, 04109 Leipzig",
+      "old_value": "SATURN ELEKTRO"
+    },
+    "root['items'][0]['name']": {
+      "new_value": "HAMA SMARTES HEIZK\u00d6RPERTHE",
+      "old_value": "SNAKE HEIZK\u00d6RPERTHERMOSTAT"
+    }
+  }
+}

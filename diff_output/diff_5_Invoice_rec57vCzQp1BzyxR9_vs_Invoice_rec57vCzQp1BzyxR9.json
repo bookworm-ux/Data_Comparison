@@ -1,0 +1,28 @@
+{
+  "values_changed": {
+    "root['total_net']": {
+      "new_value": 88.03,
+      "old_value": 79.0
+    },
+    "root['business_name']": {
+      "new_value": "Motel One",
+      "old_value": "Motel One Essen"
+    }
+  },
+  "iterable_item_added": {
+    "root['items'][0]": {
+      "name": "Bestpreis mit Fr\u00fchst\u00fcck",
+      "price": 95.9
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][0]": {
+      "name": "Fr\u00fchst\u00fcck",
+      "price": 16.9
+    },
+    "root['items'][1]": {
+      "name": "Logis",
+      "price": 79.0
+    }
+  }
+}

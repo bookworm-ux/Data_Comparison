@@ -1,0 +1,26 @@
+{
+  "values_changed": {
+    "root['total_net']": {
+      "new_value": 9.15,
+      "old_value": 10.89
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][1]": {
+      "name": "Double Royal Cheese",
+      "price": 0.0
+    },
+    "root['items'][2]": {
+      "name": "Pommes Frites gro\u00df",
+      "price": 0.0
+    },
+    "root['items'][3]": {
+      "name": "Ketchup",
+      "price": 0.0
+    },
+    "root['items'][4]": {
+      "name": "Cola Zero 0,5l",
+      "price": 0.0
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "values_changed": {
+    "root['business_name']": {
+      "new_value": "Steakhaus EL TORO",
+      "old_value": "EL TORO"
+    }
+  },
+  "iterable_item_added": {
+    "root['items'][0]": {
+      "name": "Pfefferh\u00fcft Steak",
+      "price": 33.0
+    },
+    "root['items'][1]": {
+      "name": "Rumpsteak Grande",
+      "price": 35.8
+    },
+    "root['items'][2]": {
+      "name": "Filet Mediano",
+      "price": 32.0
+    },
+    "root['items'][3]": {
+      "name": "Pfefferfilet 300 GR",
+      "price": 49.0
+    },
+    "root['items'][4]": {
+      "name": "Papa Asada",
+      "price": 19.5
+    },
+    "root['items'][5]": {
+      "name": "Frische Champignonk\u00f6pfe",
+      "price": 6.8
+    },
+    "root['items'][6]": {
+      "name": "Vanille Eis mit Schattenmorellen",
+      "price": 21.0
+    },
+    "root['items'][7]": {
+      "name": "Palatschinken mit Vanille Eis",
+      "price": 11.5
+    },
+    "root['items'][8]": {
+      "name": "0.5 Krefelder",
+      "price": 16.5
+    },
+    "root['items'][9]": {
+      "name": "0.5 Brinkhoffs Nr. 1",
+      "price": 11.0
+    },
+    "root['items'][10]": {
+      "name": "0.3 Brinkhoffs",
+      "price": 7.0
+    },
+    "root['items'][11]": {
+      "name": "0.5 Weizen",
+      "price": 16.5
+    },
+    "root['items'][12]": {
+      "name": "0.3 Radler",
+      "price": 3.5
+    },
+    "root['items'][13]": {
+      "name": "0.3 Pepsi",
+      "price": 7.2
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][0]": {
+      "name": "PFEFFERH\u00dcFT STEAK",
+      "price": 33
+    },
+    "root['items'][1]": {
+      "name": "RUMPSTEAK GRANDE",
+      "price": 35.8
+    },
+    "root['items'][2]": {
+      "name": "FILET MEDIANO",
+      "price": 22
+    },
+    "root['items'][3]": {
+      "name": "PFEFFERFILET 300 GR",
+      "price": 19.5
+    },
+    "root['items'][4]": {
+      "name": "PAPA ASADA",
+      "price": 6.8
+    },
+    "root['items'][5]": {
+      "name": "FRISCHE CHAMPIGNONK\u00d6PFE",
+      "price": 21
+    },
+    "root['items'][6]": {
+      "name": "PALATSCHINKEN MIT VANILLE EIS",
+      "price": 11.5
+    },
+    "root['items'][7]": {
+      "name": "KREFELDER",
+      "price": 16.5
+    },
+    "root['items'][8]": {
+      "name": "BRINKHOFF'S N.1",
+      "price": 11
+    },
+    "root['items'][9]": {
+      "name": "BRINKHOFF'S N.3",
+      "price": 19.5
+    },
+    "root['items'][10]": {
+      "name": "WEIZEN",
+      "price": 3.5
+    },
+    "root['items'][11]": {
+      "name": "PEPSI",
+      "price": 7.2
+    }
+  }
+}

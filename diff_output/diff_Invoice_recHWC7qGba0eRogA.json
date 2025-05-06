@@ -1,0 +1,82 @@
+{
+  "values_changed": {
+    "root['business_name']": {
+      "new_value": "Zweirad-Center Stadler, Stra\u00dfe des 18. Oktober 46, 04103 Leipzig",
+      "old_value": "Zweirad-Center Stadler Leipzig Alte Messe GmbH"
+    },
+    "root['items'][4]": {
+      "new_value": {
+        "name": "Scheibenbremse MT501 2-Kolben, VR, I-Spec II, Resin",
+        "price": 64.99
+      },
+      "old_value": {
+        "name": "Altteile d\u00fcrfen entsorgt werden",
+        "price": 2.49
+      }
+    },
+    "root['items'][1]": {
+      "new_value": {
+        "name": "Bremsscheibe 6-Loch 180mm, SMRT66 Metal/Resin",
+        "price": 21.99
+      },
+      "old_value": {
+        "name": "Hydraulische Bremsanlage montieren vorn&hinten zzgl.Material",
+        "price": 76.0
+      }
+    },
+    "root['items'][0]": {
+      "new_value": {
+        "name": "Bremsscheibe 6-Loch 160mm, SMRT66 Metal/Resin",
+        "price": 19.99
+      },
+      "old_value": {
+        "name": "Bremsbel\u00e4ge",
+        "price": 28.5
+      }
+    },
+    "root['items'][2]": {
+      "new_value": {
+        "name": "Adapter Satz f\u00fcr Disc-Br mit Schrauben",
+        "price": 8.99
+      },
+      "old_value": {
+        "name": "Kette & Kassette wechseln zzgl.Material",
+        "price": 38.0
+      }
+    }
+  },
+  "iterable_item_added": {
+    "root['items'][3]": {
+      "name": "Scheibenbremse MT501 2-Kolben, HR, I-Spec II, Resin",
+      "price": 69.99
+    },
+    "root['items'][5]": {
+      "name": "Kette CN-HG71 6/7/8-fach, 138 Glieder",
+      "price": 21.99
+    },
+    "root['items'][6]": {
+      "name": "Kassette HG51 8-fach, 11-32 Z\u00e4hne",
+      "price": 21.99
+    },
+    "root['items'][7]": {
+      "name": "Bremsscheiben erneuern vorn zzgl. Material",
+      "price": 28.5
+    },
+    "root['items'][8]": {
+      "name": "Bremsscheiben erneuern hinten zzgl. Material",
+      "price": 28.5
+    },
+    "root['items'][9]": {
+      "name": "Hydraulische Bremsanlage montieren vorn&hinten zzgl. Mat",
+      "price": 76.0
+    },
+    "root['items'][10]": {
+      "name": "Katte & Kassette wechseln zzgl. Material",
+      "price": 38.0
+    },
+    "root['items'][12]": {
+      "name": "Altteile d\u00fcrfen entsorgt werden",
+      "price": 0.0
+    }
+  }
+}

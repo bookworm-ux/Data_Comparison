@@ -1,0 +1,32 @@
+{
+  "values_changed": {
+    "root['business_name']": {
+      "new_value": "Cafe Extrablatt",
+      "old_value": "Caf\u00e9 extrablatt"
+    },
+    "root['items'][0]['name']": {
+      "new_value": "Frischer O-Saft 0,2",
+      "old_value": "Frischer O-Saft"
+    },
+    "root['items'][1]['name']": {
+      "new_value": "Beck\u2019s Alkoholfrei 0,33",
+      "old_value": "Sch\u00fcmli"
+    },
+    "root['items'][1]['price']": {
+      "new_value": 7.9,
+      "old_value": 25.0
+    }
+  },
+  "iterable_item_added": {
+    "root['items'][1]": {
+      "name": "Gr. Sch\u00fcmli Kaffee",
+      "price": 22.0
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][2]": {
+      "name": "Beck's",
+      "price": 5.0
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "values_changed": {
+    "root['business_name']": {
+      "new_value": "REWE Matthias H\u00fcrschel oHG",
+      "old_value": "REWE Matthias H\u00e4rzschel oHG"
+    },
+    "root['items'][0]['name']": {
+      "new_value": "BAERLAUCHBEEKL",
+      "old_value": "BAERLAUCHREBELL"
+    },
+    "root['items'][1]['name']": {
+      "new_value": "OBADZA KLASSIK",
+      "old_value": "OBAZDA KLASSIK"
+    },
+    "root['items'][1]['price']": {
+      "new_value": 2.29,
+      "old_value": 2.19
+    },
+    "root['items'][4]['name']": {
+      "new_value": "LANDSB. SCHWARZB.",
+      "old_value": "LANDSB.SCHWARZB."
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][5]": {
+      "name": "PFAND O,08 EUR",
+      "price": 0.08
+    },
+    "root['items'][7]": {
+      "name": "PFAND O,08 EUR",
+      "price": 0.08
+    }
+  }
+}

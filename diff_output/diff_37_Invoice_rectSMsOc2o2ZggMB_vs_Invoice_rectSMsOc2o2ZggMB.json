@@ -1,0 +1,60 @@
+{
+  "values_changed": {
+    "root['business_name']": {
+      "new_value": "Don Giovanni",
+      "old_value": "Ristorante Don Giovanni"
+    }
+  },
+  "iterable_item_added": {
+    "root['items'][0]": {
+      "name": "Moretti 0,4l Birra",
+      "price": 9.0
+    },
+    "root['items'][1]": {
+      "name": "Orange 0,4",
+      "price": 9.0
+    },
+    "root['items'][2]": {
+      "name": "Fl. Schwarzbier 0,5l",
+      "price": 9.6
+    },
+    "root['items'][4]": {
+      "name": "Pizzabrot Knoblauch",
+      "price": 5.5
+    },
+    "root['items'][5]": {
+      "name": "Spaghetti Carbo. Tradi",
+      "price": 14.5
+    },
+    "root['items'][6]": {
+      "name": "Tagliatelle al Salmone",
+      "price": 17.5
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][0]": {
+      "name": "Moretti Birra",
+      "price": 4.5
+    },
+    "root['items'][1]": {
+      "name": "Orange",
+      "price": 4
+    },
+    "root['items'][2]": {
+      "name": "Schwarzbier",
+      "price": 0.51
+    },
+    "root['items'][4]": {
+      "name": "Pizzabr\u00f6tchen Knoblauch",
+      "price": 5.5
+    },
+    "root['items'][5]": {
+      "name": "Spaghetti Carbonara Tradizionali",
+      "price": 14.5
+    },
+    "root['items'][6]": {
+      "name": "Tagliatelle al Salmone",
+      "price": 12.5
+    }
+  }
+}

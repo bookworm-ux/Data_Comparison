@@ -1,0 +1,8 @@
+{
+  "values_changed": {
+    "root['items'][0]['name']": {
+      "new_value": "Parkentgelt",
+      "old_value": "Parkgeb\u00fchren"
+    }
+  }
+}

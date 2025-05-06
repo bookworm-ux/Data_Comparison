@@ -1,0 +1,46 @@
+{
+  "iterable_item_added": {
+    "root['items'][0]": {
+      "name": "Milikis Milchgetr\u00e4nk Soda 500ml",
+      "price": 2.39
+    },
+    "root['items'][1]": {
+      "name": "Milikis Milchgetr\u00e4nk Soda 500ml",
+      "price": 2.39
+    },
+    "root['items'][2]": {
+      "name": "Milikis Milchgetr\u00e4nk Soda 500ml",
+      "price": 2.39
+    },
+    "root['items'][3]": {
+      "name": "Waffeln Sojamilch Geschmack 1 12,8g Bourbon",
+      "price": 3.99
+    },
+    "root['items'][4]": {
+      "name": "Kaffee Bonbons mit Vanillecreme F\u00fcllung Espresso 150g",
+      "price": 2.59
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][0]": {
+      "name": "Lotte Mildgetr\u00e4nk Soda 500ml",
+      "price": 2.39
+    },
+    "root['items'][1]": {
+      "name": "Lotte Mildgetr\u00e4nk Soda 500ml",
+      "price": 2.39
+    },
+    "root['items'][2]": {
+      "name": "Lotte Mildgetr\u00e4nk Soda 500ml",
+      "price": 2.39
+    },
+    "root['items'][3]": {
+      "name": "Waffeln Saimolich Geschmack 1.28g",
+      "price": 3.49
+    },
+    "root['items'][4]": {
+      "name": "Kaffee Bonbons mit Vanillecreme F\u00fcllung Esprezzo 150g",
+      "price": 2.59
+    }
+  }
+}

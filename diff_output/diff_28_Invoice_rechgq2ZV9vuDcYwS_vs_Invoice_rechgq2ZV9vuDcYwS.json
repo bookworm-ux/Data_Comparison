@@ -1,0 +1,36 @@
+{
+  "values_changed": {
+    "root['items'][5]['price']": {
+      "new_value": 10.5,
+      "old_value": 10.9
+    },
+    "root['items'][4]['name']": {
+      "new_value": "Jum.Miami\u2019s Best",
+      "old_value": "Jum.Nikita"
+    },
+    "root['items'][8]['price']": {
+      "new_value": 13.8,
+      "old_value": 6.9
+    }
+  },
+  "iterable_item_added": {
+    "root['items'][2]": {
+      "name": "JUM:MARACUJA SAFAR",
+      "price": 16.9
+    },
+    "root['items'][4]": {
+      "name": "JUM.Nikita",
+      "price": 10.5
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][2]": {
+      "name": "JUM:MARACUJA SAFAR",
+      "price": 16
+    },
+    "root['items'][7]": {
+      "name": "Jum.Miami's Best",
+      "price": 10.5
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "values_changed": {
+    "root['items'][0]['price']": {
+      "new_value": 10.4,
+      "old_value": 5.2
+    },
+    "root['items'][1]['price']": {
+      "new_value": 24.0,
+      "old_value": 6.0
+    },
+    "root['items'][2]['price']": {
+      "new_value": 32.5,
+      "old_value": 6.5
+    },
+    "root['items'][3]['name']": {
+      "new_value": "O4 Adjaruli",
+      "old_value": "tatera"
+    },
+    "root['items'][3]['price']": {
+      "new_value": 35.0,
+      "old_value": 6.0
+    },
+    "root['items'][5]['price']": {
+      "new_value": 18.5,
+      "old_value": 18.0
+    }
+  },
+  "iterable_item_added": {
+    "root['items'][3]": {
+      "name": "tatara",
+      "price": 30.0
+    },
+    "root['items'][4]": {
+      "name": "Vorspeise gro\u00df",
+      "price": 18.0
+    },
+    "root['items'][5]": {
+      "name": "Brot",
+      "price": 3.0
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][4]": {
+      "name": "04 Adjaruli",
+      "price": 17.5
+    }
+  }
+}

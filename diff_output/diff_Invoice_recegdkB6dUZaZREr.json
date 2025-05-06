@@ -1,0 +1,16 @@
+{
+  "values_changed": {
+    "root['total_net']": {
+      "new_value": 134.8,
+      "old_value": 0.0
+    },
+    "root['business_name']": {
+      "new_value": "The Cloud One Hamburg-Kontorhaus",
+      "old_value": "APmeister Consulting GmbH"
+    },
+    "root['items'][0]['name']": {
+      "new_value": "Best Price including Breakfast",
+      "old_value": "Breakfast (VAT 19%)"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "values_changed": {
+    "root['total_net']": {
+      "new_value": 9.23,
+      "old_value": 0.0
+    },
+    "root['business_name']": {
+      "new_value": "Stefan Timme Familiengastronomie e.K.",
+      "old_value": "Stefan Timme Familengastronomie e.K."
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][1]": {
+      "name": "Der M",
+      "price": 0.0
+    },
+    "root['items'][2]": {
+      "name": "Pommes Frites gro\u00df",
+      "price": 0.0
+    },
+    "root['items'][3]": {
+      "name": "Ketchup",
+      "price": 0.0
+    },
+    "root['items'][4]": {
+      "name": "Cola Zero 0,5l",
+      "price": 0.0
+    }
+  }
+}

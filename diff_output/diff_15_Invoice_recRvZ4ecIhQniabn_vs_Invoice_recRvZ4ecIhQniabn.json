@@ -1,0 +1,22 @@
+{
+  "iterable_item_added": {
+    "root['items'][0]": {
+      "name": "Avocado Chicken Bomb",
+      "price": 4.9
+    },
+    "root['items'][1]": {
+      "name": "Tijuana Street Frie",
+      "price": 11.35
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][0]": {
+      "name": "Avocado Chicken Bomb A",
+      "price": 4.9
+    },
+    "root['items'][1]": {
+      "name": "Tijuana Street Frie A",
+      "price": 11.35
+    }
+  }
+}

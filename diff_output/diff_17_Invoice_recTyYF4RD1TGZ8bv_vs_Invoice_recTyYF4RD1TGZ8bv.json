@@ -1,0 +1,24 @@
+{
+  "values_changed": {
+    "root['total_net']": {
+      "new_value": 12.25,
+      "old_value": 0.0
+    },
+    "root['items'][2]['name']": {
+      "new_value": "Oral-B Zahncr\u00e8me Extra frisch",
+      "old_value": "Pukka Matcha Green 20x1,5g=30g"
+    }
+  },
+  "iterable_item_added": {
+    "root['items'][2]": {
+      "name": "Pukka Matcha Green 20x1,5g-30g",
+      "price": 3.02
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][3]": {
+      "name": "Oral-B Zahnpaste Extra Frisch",
+      "price": 3.95
+    }
+  }
+}

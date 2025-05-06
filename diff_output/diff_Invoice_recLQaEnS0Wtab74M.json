@@ -1,0 +1,74 @@
+{
+  "values_changed": {
+    "root['items'][4]": {
+      "new_value": {
+        "name": "Cranberries",
+        "price": 3.79
+      },
+      "old_value": {
+        "name": "CRANBERRIES",
+        "price": 0.75
+      }
+    },
+    "root['items'][2]": {
+      "new_value": {
+        "name": "Gouda JG Scheib",
+        "price": 2.29
+      },
+      "old_value": {
+        "name": "GOUDA JG SCHEIB",
+        "price": 2.49
+      }
+    },
+    "root['items'][3]": {
+      "new_value": {
+        "name": "Anno 1688",
+        "price": 2.49
+      },
+      "old_value": {
+        "name": "ANNO 1688",
+        "price": 3.49
+      }
+    },
+    "root['items'][5]": {
+      "new_value": {
+        "name": "Landsb. Schwarzb.",
+        "price": 0.75
+      },
+      "old_value": {
+        "name": "PFAND 0.08 EUR",
+        "price": 0.08
+      }
+    },
+    "root['items'][1]": {
+      "new_value": {
+        "name": "Milram Burlander",
+        "price": 2.49
+      },
+      "old_value": {
+        "name": "MILRAM BURLANDER",
+        "price": 2.29
+      }
+    },
+    "root['items'][0]": {
+      "new_value": {
+        "name": "Kerrygold Cheddar",
+        "price": 2.79
+      },
+      "old_value": {
+        "name": "KERRYGOLD CHEDD.",
+        "price": 2.79
+      }
+    },
+    "root['items'][6]": {
+      "new_value": {
+        "name": "Zewa Ultra Soft",
+        "price": 4.49
+      },
+      "old_value": {
+        "name": "ZEWA ULTRA SOFT",
+        "price": 4.49
+      }
+    }
+  }
+}

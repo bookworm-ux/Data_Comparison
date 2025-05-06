@@ -1,0 +1,138 @@
+{
+  "values_changed": {
+    "root['business_name']": {
+      "new_value": "Steakhaus EL TORO",
+      "old_value": "EL TORO"
+    },
+    "root['items'][4]": {
+      "new_value": {
+        "name": "Papa Asada",
+        "price": 19.5
+      },
+      "old_value": {
+        "name": "PAPA ASADA",
+        "price": 6.8
+      }
+    },
+    "root['items'][2]": {
+      "new_value": {
+        "name": "Filet Mediano",
+        "price": 32.0
+      },
+      "old_value": {
+        "name": "FILET MEDIANO",
+        "price": 22
+      }
+    },
+    "root['items'][3]": {
+      "new_value": {
+        "name": "Pfefferfilet 300 GR",
+        "price": 49.0
+      },
+      "old_value": {
+        "name": "PFEFFERFILET 300 GR",
+        "price": 19.5
+      }
+    },
+    "root['items'][9]": {
+      "new_value": {
+        "name": "0.5 Brinkhoffs Nr. 1",
+        "price": 11.0
+      },
+      "old_value": {
+        "name": "BRINKHOFF'S N.3",
+        "price": 19.5
+      }
+    },
+    "root['items'][5]": {
+      "new_value": {
+        "name": "Frische Champignonk\u00f6pfe",
+        "price": 6.8
+      },
+      "old_value": {
+        "name": "FRISCHE CHAMPIGNONK\u00d6PFE",
+        "price": 21
+      }
+    },
+    "root['items'][11]": {
+      "new_value": {
+        "name": "0.5 Weizen",
+        "price": 16.5
+      },
+      "old_value": {
+        "name": "PEPSI",
+        "price": 7.2
+      }
+    },
+    "root['items'][8]": {
+      "new_value": {
+        "name": "0.5 Krefelder",
+        "price": 16.5
+      },
+      "old_value": {
+        "name": "BRINKHOFF'S N.1",
+        "price": 11
+      }
+    },
+    "root['items'][10]": {
+      "new_value": {
+        "name": "0.3 Brinkhoffs",
+        "price": 7.0
+      },
+      "old_value": {
+        "name": "WEIZEN",
+        "price": 3.5
+      }
+    },
+    "root['items'][7]": {
+      "new_value": {
+        "name": "Palatschinken mit Vanille Eis",
+        "price": 11.5
+      },
+      "old_value": {
+        "name": "KREFELDER",
+        "price": 16.5
+      }
+    },
+    "root['items'][1]": {
+      "new_value": {
+        "name": "Rumpsteak Grande",
+        "price": 35.8
+      },
+      "old_value": {
+        "name": "RUMPSTEAK GRANDE",
+        "price": 35.8
+      }
+    },
+    "root['items'][0]": {
+      "new_value": {
+        "name": "Pfefferh\u00fcft Steak",
+        "price": 33.0
+      },
+      "old_value": {
+        "name": "PFEFFERH\u00dcFT STEAK",
+        "price": 33
+      }
+    },
+    "root['items'][6]": {
+      "new_value": {
+        "name": "Vanille Eis mit Schattenmorellen",
+        "price": 21.0
+      },
+      "old_value": {
+        "name": "PALATSCHINKEN MIT VANILLE EIS",
+        "price": 11.5
+      }
+    }
+  },
+  "iterable_item_added": {
+    "root['items'][12]": {
+      "name": "0.3 Radler",
+      "price": 3.5
+    },
+    "root['items'][13]": {
+      "name": "0.3 Pepsi",
+      "price": 7.2
+    }
+  }
+}

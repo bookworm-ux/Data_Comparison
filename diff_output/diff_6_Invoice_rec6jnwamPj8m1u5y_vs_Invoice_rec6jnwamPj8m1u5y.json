@@ -1,0 +1,44 @@
+{
+  "values_changed": {
+    "root['items'][0]['price']": {
+      "new_value": 17.8,
+      "old_value": 8.9
+    },
+    "root['items'][1]['price']": {
+      "new_value": 15.0,
+      "old_value": 7.5
+    },
+    "root['items'][2]['price']": {
+      "new_value": 11.0,
+      "old_value": 5.5
+    },
+    "root['items'][3]['name']": {
+      "new_value": "Spaghetti Carbonara",
+      "old_value": "Pils Thomask."
+    },
+    "root['items'][3]['price']": {
+      "new_value": 14.9,
+      "old_value": 5.2
+    }
+  },
+  "iterable_item_added": {
+    "root['items'][3]": {
+      "name": "Pils Thomask. 0,5l",
+      "price": 10.4
+    },
+    "root['items'][4]": {
+      "name": "Schwarz Thomask. 0,5l",
+      "price": 20.8
+    }
+  },
+  "iterable_item_removed": {
+    "root['items'][4]": {
+      "name": "Schwarz Thomask.",
+      "price": 4.4
+    },
+    "root['items'][7]": {
+      "name": "Spaghetti Carbonara",
+      "price": 16
+    }
+  }
+}
